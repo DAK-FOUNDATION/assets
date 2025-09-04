@@ -1,1 +1,11 @@
-[{'title':'My chain','links':[{'text':'Homepage','url':'https://dak.technology/'}]}]
+[
+  {
+    "title": "My chain",
+    "links": [
+      {
+        "text": "Homepage",
+        "url": "https://dak.technology/"
+      }
+    ]
+  }
+]
